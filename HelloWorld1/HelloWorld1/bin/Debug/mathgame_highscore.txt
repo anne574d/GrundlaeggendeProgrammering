@@ -1,0 +1,12 @@
+Donna;82
+Audry;23
+James;1
+Maddy;76
+Dale;111
+Laura;99
+Bobby;34
+Pete;30
+Lucy;14
+Harry;107
+Albert;34
+Bob;30
